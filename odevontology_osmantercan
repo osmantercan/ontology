@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/DEBfgaIhMX74FvkL2JZU8M#"
+     xml:base="http://webprotege.stanford.edu/project/DEBfgaIhMX74FvkL2JZU8M"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/DEBfgaIhMX74FvkL2JZU8M"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/publisher -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/publisher"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R79SOQuvFAar3m6fVUaAlsj -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R79SOQuvFAar3m6fVUaAlsj">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBBkDz96FB0WIIhr7ykCM7W"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Respawn Entertainment</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2019</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electronic Arts</dc:publisher>
+        <rdfs:label>Apex Legends</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7AwmFrDAhcFeAL67Fx0jcM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7AwmFrDAhcFeAL67Fx0jcM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCbxttQFF1bld3v0xEIUbVd"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar North</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</dc:publisher>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GTA 5</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7RNhcB0t4uo3MHCHiaG7bS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7RNhcB0t4uo3MHCHiaG7bS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RUasIF5hiAfUqbu5is5e1U"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hi-Rez Studios</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</dc:date>
+        <rdfs:label>Smite</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8MtCBRiBCNohaJoSqPJGh3 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8MtCBRiBCNohaJoSqPJGh3">
+        <rdfs:label>Oyunlar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8d4wQid5XgxY5TfUpza7oO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8d4wQid5XgxY5TfUpza7oO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCbxttQFF1bld3v0xEIUbVd"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remedy Entertainment</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</dc:publisher>
+        <rdfs:label>Max Payne</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8fm0oURZXLevKRyBFuxQMr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8fm0oURZXLevKRyBFuxQMr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCid7BIG087iOJeXhvvLnKV"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mgame Corporation</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NTTGame</dc:publisher>
+        <rdfs:label>Knight Online</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9GmTdOWOM1p3frJ6rkPGML -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9GmTdOWOM1p3frJ6rkPGML">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBBkDz96FB0WIIhr7ykCM7W"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valve</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</dc:date>
+        <rdfs:label>Counter Strike Global Offensive</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBBkDz96FB0WIIhr7ykCM7W -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBBkDz96FB0WIIhr7ykCM7W">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8MtCBRiBCNohaJoSqPJGh3"/>
+        <rdfs:label>FPS</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCbxttQFF1bld3v0xEIUbVd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCbxttQFF1bld3v0xEIUbVd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8MtCBRiBCNohaJoSqPJGh3"/>
+        <rdfs:label>TPS</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCid7BIG087iOJeXhvvLnKV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCid7BIG087iOJeXhvvLnKV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8MtCBRiBCNohaJoSqPJGh3"/>
+        <rdfs:label>MMORPG</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDPd4Nho0V73818aNcHvCR5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDPd4Nho0V73818aNcHvCR5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RUasIF5hiAfUqbu5is5e1U"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valve</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</dc:date>
+        <rdfs:label>Dota</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDTEY7IIafgCjfMPP9Zsq7f -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDTEY7IIafgCjfMPP9Zsq7f">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCid7BIG087iOJeXhvvLnKV"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blizzard Entertainment</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</dc:date>
+        <rdfs:label>World of Warcraft</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDg6GtnqV91YS5AAZcxIOGj -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDg6GtnqV91YS5AAZcxIOGj">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCbxttQFF1bld3v0xEIUbVd"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shinji Mikami, Tokuro Fujiwara</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1996</dc:date>
+        <rdfs:label>Resident Evil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDjAjPy92Lq6ZSKZmmXpAy9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDjAjPy92Lq6ZSKZmmXpAy9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCid7BIG087iOJeXhvvLnKV"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ymir Entertainment</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</dc:date>
+        <rdfs:label>Metin2</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RUasIF5hiAfUqbu5is5e1U -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RUasIF5hiAfUqbu5is5e1U">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8MtCBRiBCNohaJoSqPJGh3"/>
+        <rdfs:label>MOBA</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RkTfMERVI7hH15ctCm3c5G -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RkTfMERVI7hH15ctCm3c5G">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBBkDz96FB0WIIhr7ykCM7W"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riot Games</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</dc:date>
+        <rdfs:label>Valorant</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RxNL0vzte6qb1xPUPQLRVw -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RxNL0vzte6qb1xPUPQLRVw">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RUasIF5hiAfUqbu5is5e1U"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riot Games</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</dc:date>
+        <rdfs:label>League of Legends</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
