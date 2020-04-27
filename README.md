@@ -1,0 +1,2 @@
+# ontology
+Ontoloji örneği
